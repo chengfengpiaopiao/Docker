@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: dpopov
+Build-Jdk: 1.6.0_17
+Extension-Name: dynamicparameter
+Specification-Title: This plugin allows build parameters with dynamica
+ lly generated default values.
+Implementation-Title: dynamicparameter
+Implementation-Version: 0.1.1
+Group-Id: com.seitenbau.jenkins.plugins
+Short-Name: dynamicparameter
+Long-Name: Jenkins Dynamic Parameter Plug-in
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Dynamic+Param
+ eter+Plug-in
+Plugin-Version: 0.1.1
+Hudson-Version: 1.424
+Jenkins-Version: 1.424
+Plugin-Developers: Dimitar Popov:dimitarp:,Christian Baranowski:barano
+ wski:
+
